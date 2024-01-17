@@ -1,3 +1,4 @@
+
 .mode csv
 .import reviews.csv reviews_data_raw
 .import listings.csv listings_data_raw
